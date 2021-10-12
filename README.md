@@ -2,6 +2,7 @@
 Simple spambot written to help learn basic BASH syntax and commands
 
 ##########################################
+
 HOW TO USE:
 
 1. Write the message you want to spam
